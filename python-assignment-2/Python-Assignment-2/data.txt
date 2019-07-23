@@ -1,0 +1,6 @@
+Voter ID: 0
+3
+Voter ID: 1
+2
+Voter ID: 2
+1
