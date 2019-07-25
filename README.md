@@ -4,4 +4,5 @@ This file contains a folder of projects created for the ICS3U0 course, originall
 
 View the original Repls here:
 Assignment 1: https://repl.it/@Aryan_Kalia_Kal/Python-Assignment-1
+
 Assignment 2: https://repl.it/@Aryan_Kalia_Kal/Python-Assignment-2
